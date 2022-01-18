@@ -1,8 +1,6 @@
 # Compare Report
 
-Preview of Program: https://drive.google.com/file/d/1Bcfc_PTJhZfEWHpIIe1Ab7w_u-A3wuNY/view?usp=sharing
-
-[![Compare Report]({image-url})]({https://drive.google.com/file/d/1Bcfc_PTJhZfEWHpIIe1Ab7w_u-A3wuNY/view?usp=sharing} "Preview Program")
+[![Compare Report]]({https://drive.google.com/file/d/1Bcfc_PTJhZfEWHpIIe1Ab7w_u-A3wuNY/view?usp=sharing} "Preview Program")
 
 **Data Sources**
 - NJMMP: Patient and amount entered into state website.
