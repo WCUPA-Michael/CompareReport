@@ -1,6 +1,6 @@
 # Compare Report
 
-[![Compare Report]({image-url})]({https://drive.google.com/file/d/1Bcfc_PTJhZfEWHpIIe1Ab7w_u-A3wuNY/view?usp=sharing} "Preview Program")
+[![Compare Report]({https://images.credly.com/size/110x110/images/60f51d9f-3622-4614-bacf-9ce043a52809/edX_-_Python_Essentials.png})]({https://drive.google.com/file/d/1Bcfc_PTJhZfEWHpIIe1Ab7w_u-A3wuNY/view?usp=sharing} "Preview Program")
 
 **Data Sources**
 - NJMMP: Patient and amount entered into state website.
