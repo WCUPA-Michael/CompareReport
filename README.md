@@ -1,10 +1,8 @@
 # Compare Report
 
-<!-- blank line -->
 <figure class="video_container">
   <iframe src=https://drive.google.com/file/d/1Bcfc_PTJhZfEWHpIIe1Ab7w_u-A3wuNY/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line -->
 
 **Data Sources**
 - NJMMP: Patient and amount entered into state website.
