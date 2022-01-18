@@ -1,12 +1,9 @@
 # Compare Report
 
 
-<figure class="video_container">
-  <iframe src=https://drive.google.com/file/d/1Bcfc_PTJhZfEWHpIIe1Ab7w_u-A3wuNY/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-                                                                                                                               
+Preview Program: [Watch Program Preview](https://drive.google.com/file/d/1Bcfc_PTJhZfEWHpIIe1Ab7w_u-A3wuNY/view?usp=sharing)
 
-Data Sources
+**Data Sources**
 - NJMMP: Patient and amount entered into state website.
 - Local: Patient and amount entered into local point of sale (POS) system.
 
